@@ -1,0 +1,19 @@
+name: Today I Learned
+description: Short, durable notes from things I learn while building software.
+profile: professional
+
+content:
+  path: content
+
+features:
+  search: true
+  rss: true
+  tags: true
+  ai_disclosure: true
+  source_links: true
+
+publishing:
+  base_url: null
+
+branding:
+  theme: professional
